@@ -1,0 +1,1 @@
+if (name == 111 && Date.now > new Date('2019/04/12 08:00:00')) {consoel.log('yes');} else if (name !== 333) {console.log('no');}
